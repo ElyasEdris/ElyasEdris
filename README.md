@@ -1,6 +1,6 @@
 [9/15/2026 6:48 PM] Elyas: <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="35px" width="35px">
-  <h1>Hi there, I'm Ahmad Shah Gouhari</h1>
+  <h1>Hi there, I'm M.Elyas Edris</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Graphic+Designer;UI%2FUX+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
